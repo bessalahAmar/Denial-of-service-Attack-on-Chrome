@@ -1,4 +1,4 @@
-# Denial-of-service-Attack-on-Chrome
+# Denial of service Attack on Chrome (memory leak vulnerability)
 
 Steps to reproduce the attack : 
 
