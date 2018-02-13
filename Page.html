@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+
+<script type="text/javascript">
+	
+	function sleep(ms) {
+  		return new Promise(resolve => setTimeout(resolve, ms));
+	}
+
+	async function func() {
+		
+	  await sleep(500);
+	  
+	}
+	function qnibuz()
+	{
+		while(true){func();}
+	}
+
+	qnibuz();
+
+</script>
+
+</body>
+</html>
